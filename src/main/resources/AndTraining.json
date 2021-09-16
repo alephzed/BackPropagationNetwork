@@ -1,0 +1,21 @@
+{
+  "descriptor": "Logical And Training Data",
+  "training": [
+    {
+      "input": [0, 0],
+      "result": [0]
+    },
+    {
+      "input": [0, 1],
+      "result": [0]
+    },
+    {
+      "input": [1, 0],
+      "result": [0]
+    },
+    {
+      "input": [1, 1],
+      "result": [1]
+    }
+  ]
+}
